@@ -38,6 +38,7 @@ El objetivo es destruir las naves enemigas y evitar que lleguen a tu posición.
 ## Ejecución de ejemplo
 
 
+<img width="500" height="400" alt="imagen" src="https://github.com/user-attachments/assets/71a51937-9258-4e76-bcf3-2158bd54ef80" />
 
 
 ## Mejoras futuras
